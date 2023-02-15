@@ -1,0 +1,45 @@
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\bin\Debug\MySql CRUD.exe.config
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\bin\Debug\MySql CRUD.exe
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\bin\Debug\MySql CRUD.pdb
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.csproj.AssemblyReference.cache
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\obj\Debug\MySql_CRUD.Form1.resources
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\obj\Debug\MySql_CRUD.Properties.Resources.resources
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.csproj.GenerateResource.cache
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.csproj.CoreCompileInputs.cache
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.exe
+C:\Users\irine\source\repos\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.pdb
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\MySql CRUD.exe.config
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\MySql CRUD.exe
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\MySql CRUD.pdb
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.csproj.AssemblyReference.cache
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql_CRUD.FormStudentInfo.resources
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql_CRUD.Properties.Resources.resources
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.csproj.GenerateResource.cache
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.csproj.CoreCompileInputs.cache
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.exe
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.pdb
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql_CRUD.FormStudent.resources
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\Google.Protobuf.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\MySql.Data.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\Renci.SshNet.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Buffers.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Memory.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\Zstandard.Net.dll
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\Google.Protobuf.pdb
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\Google.Protobuf.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\MySql.Data.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\Renci.SshNet.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Buffers.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Memory.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\irine\Desktop\proiect1\MySql CRUD\MySql CRUD\obj\Debug\MySql CRUD.csproj.CopyComplete
